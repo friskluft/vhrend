@@ -1,6 +1,7 @@
 #' vthie_df_2_tree
 #'
 #' create a tree structure from a data.frame
+#' (inspired by UROS-2018 conference)
 #'
 #' @param df a data.frame with specific format
 #' @param scaleToPerc (logical) scale to percent

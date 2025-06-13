@@ -1,6 +1,7 @@
 #' vthie_render
 #'
 #' create a tree structure from a data.frame
+#' (inspired by UROS-2018 conference)
 #'
 #' @param datafname input CSV file path
 #' @param outfname output HTML file path
